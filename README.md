@@ -9,21 +9,30 @@ VScode Extensions
 
 ESLint 
 ```
+  npx install-peerdeps --dev eslint-config-airbnb
 ```
 
 
 ## Create project
-- [x] create-react-app
+- create-react-app
 
 - ts + webpack
 
 - js + webpack
 
+## Webpack
+- dev server
+- proxy
+
+
 ## Lefecycle
 - Class Component
+- Functional component + usEffect
 
 ## Style
 - styled-component
+
+- scss
 
 
 
@@ -47,8 +56,9 @@ ESLint
 
 - Coverage
 
-## Webpack
-
+## Best practice
+- Folder structure
+- Naming convention
 
 ## Security
 
