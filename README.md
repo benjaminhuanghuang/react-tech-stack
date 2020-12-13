@@ -35,7 +35,17 @@ ESLint
 
 - js + webpack
 
+## React
+- Class component
+  - Constructor
 
+  - this / .bind(this)
+
+- Life cycle
+
+- High order component
+
+- 
 
 ## Router
 ```
@@ -69,9 +79,6 @@ npm i react-router-dom
 
 - scss
 
-
-
-## High order component
 
 
 ## Hooks
