@@ -24,6 +24,28 @@ ESLint
 - dev server
 - proxy
 
+## Router
+```
+npm i react-router-dom
+```
+- protuct route, redirect based on user Auth data
+
+- Pass parameter
+
+- History
+
+## Auth
+- Redux
+
+- Context API
+
+- Route
+
+
+## Type checking
+- prop-types
+
+- flow
 
 ## Lefecycle
 - Class Component
@@ -41,9 +63,11 @@ ESLint
 
 ## Hooks
 
+## Form
+
 
 ## Recux + Thunk + Saga
-
+- Unit test
 
 ## Unit Test
 - Jest
@@ -56,6 +80,9 @@ ESLint
 
 - Coverage
 
+- Async
+
+
 ## Best practice
 - Folder structure
 - Naming convention
@@ -64,3 +91,21 @@ ESLint
 
 
 ## Performance
+
+
+## Dev tools
+- Chrome extension: React DevTools, Redux DevTools
+
+
+## UI Library
+- bootsrap react-bootstrap
+- Material UI
+- blueprint
+- fortawesome icon
+
+
+## Firebase
+
+
+## GraphQL
+- Apollo Client
