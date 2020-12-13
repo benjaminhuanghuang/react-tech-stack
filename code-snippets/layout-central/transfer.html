@@ -1,0 +1,47 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Center with Translate()</title>
+  <style>
+    * {
+      margin: 0
+    }
+
+    .parent {
+      width: 100%;
+      height: 50vh;
+      background: blue;
+      position: relative;
+      /*child position absolute can use parent as rference*/
+    }
+
+    .child {
+      background: red;
+      color: white;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+      padding: 2rem 3rem;
+      /*The megic part :*/
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  </style>
+</head>
+
+
+<body>
+  <div class="parent">
+    <div class="child">
+      <h4>Center</h4>
+    </div>
+  </div>
+  <br/>
+  <a href="https://www.youtube.com/watch?v=_gu_2sqkFPk">HTML and CSS Nuggets - Center with Translate()
+  </a>
+</body>
+
+</html>

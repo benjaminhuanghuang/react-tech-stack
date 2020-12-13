@@ -1,6 +1,16 @@
 # React Technology Stack
 
 
+## JavaScript
+- ES7, babel
+
+## TypeScript
+- ts, ts-loader
+
+
+## CSS
+- layout
+- 
 
 ## IDE Setup
 VScode Extensions
@@ -12,6 +22,11 @@ ESLint
   npx install-peerdeps --dev eslint-config-airbnb
 ```
 
+## Webpack
+- dev server
+
+- proxy
+
 
 ## Create project
 - create-react-app
@@ -20,9 +35,7 @@ ESLint
 
 - js + webpack
 
-## Webpack
-- dev server
-- proxy
+
 
 ## Router
 ```
@@ -88,6 +101,7 @@ npm i react-router-dom
 - Naming convention
 
 ## Security
+- jwt
 
 
 ## Performance
