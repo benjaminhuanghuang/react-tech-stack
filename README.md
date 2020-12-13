@@ -13,7 +13,7 @@ ESLint
 
 
 ## Create project
-- [] create-react-app
+- [x] create-react-app
 
 - ts + webpack
 
