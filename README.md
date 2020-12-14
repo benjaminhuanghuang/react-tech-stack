@@ -16,6 +16,16 @@
 VScode Extensions
 - Prettier and config
 
+- Live Sever
+
+- Gitlens
+
+- Debugger for Chrome
+
+- Path Intellisense
+
+- Npm Intellisense
+
 
 ESLint 
 ```
